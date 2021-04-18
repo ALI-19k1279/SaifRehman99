@@ -4,7 +4,7 @@
 
 #### Introduction 😄
 
-- 🔭 I am currently working as a MERN Stack Developer!
+- 🔭 I am currently working as a Full Stack Developer!
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me anything about JavaScript stuffs :sunglasses::
 - 📫 Ping me : saifr7493@gmail.com
